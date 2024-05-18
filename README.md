@@ -9,4 +9,5 @@ This repository contains a simple HTTP server implementation built to handle bas
 - Maven
 
   
-  ![httpserver](https://github.com/Hozayfa-18/Java-Web-Server/assets/80411230/7c92d449-0d91-41ed-b5e2-a78f02930f84)
+![httpserver (2)](https://github.com/Hozayfa-18/Java-Web-Server/assets/80411230/f2d1be79-1dfd-4756-8ab5-96df9c0d92a9)
+
