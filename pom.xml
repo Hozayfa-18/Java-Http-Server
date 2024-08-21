@@ -45,5 +45,11 @@
             <version>RELEASE</version>
             <scope>test</scope>
         </dependency>
+        <!-- JasperReports -->
+        <dependency>
+            <groupId>net.sf.jasperreports</groupId>
+            <artifactId>jasperreports</artifactId>
+            <version>6.20.0</version>
+        </dependency>
     </dependencies>
 </project>
